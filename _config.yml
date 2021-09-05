@@ -6,9 +6,9 @@ greetings: 'Hello & Welcome to Subtle'
 logo:
 favicon: 'assets/images/favicon.ico'
 baseurl: 
-production_url: https://subtle.netlify.com/
+production_url: https://pactumpartners.com/
 disqus: 'justgoodthemes'
-mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
+mailchimp_url: 
 cover_image: covers/6.jpeg
 # Add your GA Tracking Id
 ga_analytics: 
