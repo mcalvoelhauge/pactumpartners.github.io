@@ -6,7 +6,7 @@ greetings: 'Hello & Welcome to Subtle'
 logo:
 favicon: 'assets/images/favicon.ico'
 baseurl: "/"
-#production_url: "/" 
+production_url: "http://www.pactumpartners.com" 
 disqus: 'justgoodthemes'
 mailchimp_url: 
 cover_image: covers/6.jpeg
