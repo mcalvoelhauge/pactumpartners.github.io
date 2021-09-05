@@ -5,8 +5,8 @@ meta_description: 'Jekyll template, minimal style, perfect for bloggers.'
 greetings: 'Hello & Welcome to Subtle'
 logo:
 favicon: 'assets/images/favicon.ico'
-baseurl: https://pactumpartners.com/
-production_url: "/" 
+baseurl: "/"
+#production_url: "/" 
 disqus: 'justgoodthemes'
 mailchimp_url: 
 cover_image: covers/6.jpeg
