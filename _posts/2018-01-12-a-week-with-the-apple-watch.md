@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title:  "A Week With the Apple Watch"
 tags: [ Tips ]
@@ -18,3 +18,4 @@ Rumors surrounded an Apple-developed wearable back as far as 2011, which concept
 In April 2014, Apple CEO Tim Cook told The Wall Street Journal that the company was planning to launch new product categories that year, but did not reveal any specifics. In June 2014, Reuters reported that production was expected to begin in July for a release in October.
 
 Apple Watch was first unveiled after a classic and ever infamous “We do have ‘one more thing’…” slide, which heard enormous applause, on September 9, 2014 during a press event which also saw the introduction of the iPhone 6. After the reveal video, the auditorium erupted with applause while Tim Cook rolled back his sleeve, revealing an Apple Watch on his wrist. Speaking about the device, Apple CEO Tim Cook explained that Apple Watch was “a new, intimate way to communicate from your wrist, and a comprehensive health and fitness device.”
+ -->
