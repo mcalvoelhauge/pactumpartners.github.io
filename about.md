@@ -19,5 +19,3 @@ Family Offices interested in growing their peer group attend industry related d
 We offer an alternative, our discreet services carefully tailored to the individual needs of your family. 
 
 
-
-*Thank You for reading!*
