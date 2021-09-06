@@ -5,8 +5,8 @@ meta_description: 'Pactum Partners'
 greetings: 'Hello & Welcome to Pactum Partners'
 logo:
 favicon: 'assets/images/favicon.ico'
-baseurl: "/"
-production_url: https://pactumpartners.com/
+baseurl:
+production_url: "https://pactumpartners.com/"
 disqus: 'PACTUM'
 mailchimp_url: 
 cover_image: covers/6.jpeg
@@ -14,7 +14,7 @@ cover_image: covers/6.jpeg
 ga_analytics: 
 
 # Contact form setings
-email: m.calvoelhauge@email.com
+email: "m.calvoelhauge@email.com"
 contact_page_description: "For inquires, please contact us below."
 thankyou_page_description: "Thank you for your inquiry."
 
