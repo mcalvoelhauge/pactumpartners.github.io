@@ -1,6 +1,6 @@
 # Site setings
 name: 'Pactum Partners'
-description: 'Inter-Family Office Synergistic Development and Co-Investment'
+description: 'Inter-Family Office Synergistic Development'
 meta_description: 'Pactum Partners'
 greetings: 'Hello & Welcome to Pactum Partners'
 logo:
@@ -16,7 +16,7 @@ ga_analytics:
 # Contact form setings
 email: youremail@email.com
 contact_page_description: "For inquires, please contact us below."
-thankyou_page_description: "Your message has been successfully sent. We will contact you soon!"
+thankyou_page_description: "Thank you for your inquiry."
 
 # Social links
 twitter: 'username'
@@ -36,13 +36,15 @@ navigation:
     url: /about
   - text: The Pactum Partners Philosophy
     url: /pactum-partners-philosophy
+ - text: Testimonials
+    url: /testimonials
   - text: Contact Pactum
     url: /contact
 
 # Required Plugins
 plugins_dir:
   - jekyll-paginate
-  - jekyll-tagsgenerator
+#   - jekyll-tagsgenerator
   - jekyll-seo-tag
   - jekyll-sitemap
 
