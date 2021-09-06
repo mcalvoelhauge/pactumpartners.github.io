@@ -9,7 +9,7 @@ baseurl:
 production_url: https://pactumpartners.com/
 disqus: 'justgoodthemes'
 mailchimp_url:
-cover_image: assets/covers/cover.png
+cover_image: covers/cover.png
 # Add your GA Tracking Id
 ga_analytics: 
 
