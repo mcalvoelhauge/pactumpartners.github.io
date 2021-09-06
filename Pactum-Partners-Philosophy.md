@@ -1,3 +1,9 @@
+---
+layout: page
+title: Pactum Partners Philosophy
+featured_image: /assets/images/covers/6.png
+---
+
 # Purpose & Vision
 
 ## Ethos
