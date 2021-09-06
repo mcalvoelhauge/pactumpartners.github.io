@@ -4,12 +4,20 @@ title: About
 featured_image: /assets/images/pages/about.jpg
 ---
 
-Daniel Bennett is a senior developer from Vilnius, Lithuania. After graduating from The College with a degree in **Computer Science**, he worked for three small web shops where he honed his development skills and love for JavaScript.
+PACTUM PARTNERS was founded with the vision of building an innovative advisory practice and with the understanding that family offices benefit from a partner dedicated to fostering inter-family collaboration through a trusted network of sophisticated families united by shared missions, visions, and values. 
 
-His work has been recognized by Communication Arts, IBM, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. **Net** magazine named him a person to watch in 2018.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
 
-As a hobby, Daniel authors the most influential JavaScript blog in Lithuania with over 100,000 page views a month. He lives in Vilnius with his beautiful wife, two boys and one girl.
+Knowing that family offices struggled with reviewing deal flow, due to time and staffing constraints, our initial focus was on attending to their needs with regards to direct investments. However, we soon found that the opportunity for cross-collaboration presented itself beyond the tradition realm of capital allocation.
+
+​
+
+Family Offices interested in growing their peer group attend industry related dinners, conferences, and/or begin memberships. The experience can be frustrating as the attention is placed on topics such as education or best practices. 
+
+​
+
+We offer an alternative, our discreet services carefully tailored to the individual needs of your family. 
+
+
 
 *Thank You for reading!*
