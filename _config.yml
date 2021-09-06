@@ -5,7 +5,7 @@ meta_description: 'Pactum Partners'
 greetings: 'Hello & Welcome to Pactum Partners'
 logo:
 favicon: 'assets/images/favicon.ico'
-baseurl: 
+baseurl: "/"
 production_url: https://pactumpartners.com/
 disqus: 'PACTUM'
 mailchimp_url: 
