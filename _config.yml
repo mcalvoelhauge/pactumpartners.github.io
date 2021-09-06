@@ -34,9 +34,9 @@ producthunt: '@username'
 navigation:
   - text: About
     url: /about
-  - text: Style Guide
-    url: /style-guide
-  - text: Contact Me
+  - text: The Pactum Partners Philosophy
+    url: /pactum-partners-philosophy
+  - text: Contact Pactum
     url: /contact
 
 # Required Plugins
