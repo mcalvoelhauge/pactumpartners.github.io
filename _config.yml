@@ -7,7 +7,7 @@ logo:
 favicon: 'assets/images/favicon.ico'
 baseurl: 
 production_url: https://pactumpartners.com/
-disqus: 'justgoodthemes'
+disqus: 'PACTUM'
 mailchimp_url: 
 cover_image: covers/6.jpeg
 # Add your GA Tracking Id
@@ -15,8 +15,8 @@ ga_analytics:
 
 # Contact form setings
 email: youremail@email.com
-contact_page_description: "Horace theme comes with a contact form built-in. You can use this form with Formspree service and get up to 50 submissions for free. Also, you can easily switch to another service if you want."
-thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
+contact_page_description: "For inquires, please contact us below."
+thankyou_page_description: "Your message has been successfully sent. We will contact you soon!"
 
 # Social links
 twitter: 'username'
