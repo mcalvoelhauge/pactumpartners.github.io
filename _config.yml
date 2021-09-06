@@ -1,8 +1,8 @@
 # Site setings
 name: 'Pactum Partners'
-description: 'Mission Statement'
+description: 'Connecting Family Offices'
 meta_description: 'Pactum Partners'
-greetings: 'Hello & Welcome to Subtle'
+greetings: 'Hello & Welcome to Pactum Partners'
 logo:
 favicon: 'assets/images/favicon.ico'
 baseurl: 
