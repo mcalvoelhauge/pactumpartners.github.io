@@ -1,7 +1,7 @@
 # Site setings
 name: 'Pactum Partners'
-description: 'Inter-family office synergistic development.'
-meta_description: 'Connecting family offices.'
+description: 'Inter-Family Office Synergistic Development'
+meta_description: 'Connecting Family Offices.'
 greetings: 'Hello & Welcome to Pactum Partners'
 logo:
 favicon: 'assets/images/favicon.ico'
@@ -16,7 +16,7 @@ ga_analytics:
 # Contact form setings
 email: m.calvoelhauge@email.com
 contact_page_description: "Please inquire here."
-thankyou_page_description: "Thank you for your inquiry."
+thankyou_page_description: "Thank you for your inquiry!"
 
 # Social links
 twitter: 'username'
@@ -34,9 +34,9 @@ producthunt: '@username'
 navigation:
   - text: About
     url: /about
-  - text: The Pactum Partners Philosophy
+  - text: Our Philosophy
     url: /Pactum-Partners-Philosophy
-  - text: Contact Me
+  - text: Contact Us
     url: /contact
 
 # Required Plugins
