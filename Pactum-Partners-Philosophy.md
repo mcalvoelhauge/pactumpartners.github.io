@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Our Philosophy
-featured_image: /assets/images/covers/6.png
+featured_image: /assets/images/covers/Rock_Maze_(Unsplash).jpeg/assets/images/covers/6.png
 ---
 
 # Purpose & Vision
