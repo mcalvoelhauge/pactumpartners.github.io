@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Us
 featured_image: /assets/images/covers/6.png
 ---
 
