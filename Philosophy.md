@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pactum Partners Philosophy
+title: Our Philosophy
 featured_image: /assets/images/covers/6.png
 ---
 
@@ -12,6 +12,7 @@ The Purpose of PACTUM to promote the mutual benefit and advancement of the int
 
 
 The Vision of Pactum is to leverage a robust network of like minded sophisticated family offices to encourage inter-family office collaboration for the purposes of synergistic development and co-investment. 
+
 
 
 
