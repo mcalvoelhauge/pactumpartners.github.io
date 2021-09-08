@@ -32,7 +32,7 @@ producthunt: '@username'
 
 # Navigation
 navigation:
-  - text: About
+  - text: About Us
     url: /about
   - text: Our Philosophy
     url: /Pactum-Partners-Philosophy
