@@ -18,8 +18,3 @@ The Purpose of
 
 The Purpose of
 
-## Alejandro Ramos
-
-The Purpose of
-
-
