@@ -4,7 +4,7 @@ title: Our Philosophy
 featured_image:/assets/images/covers/Rock_Maze_(Unsplash).jpeg
 ---
 
-# Purpose & Vision
+# Purpose & P
 
 ## Ethos
 
