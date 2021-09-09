@@ -4,21 +4,22 @@ title: Our Advisors
 featured_image:/assets/images/covers/6.jpeg
 ---
 
-# Purpose & Vision
+# Advisor Partners
 
-## Ethos
+## Michael Calvo Elhauge
 
-The Purpose of PACTUM to promote the mutual benefit and advancement of the interests of family offices globally through the establishment of intergenerational family partnerships, as it is our belief that trust is found with shared missions, visions, and values.
+The Purpose 
 
+## Anthony Orso
 
-The Vision of Pactum is to leverage a robust network of like minded sophisticated family offices to encourage inter-family office collaboration for the purposes of synergistic development and co-investment. 
+The Purpose of
 
+## Luigi Ambrosi
 
+The Purpose of
 
+## Alejandro Ramos
 
-# Modus Vivendi
+The Purpose of
 
-## Fidem Fortunas Fraternitas
-
-Our advisory board, comprised of leading family offices and family office professionals, conducts diligent vetting of our partners families holding them to the highest moral and ethical standards. 
 
