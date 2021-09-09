@@ -36,6 +36,8 @@ navigation:
     url: /about
   - text: Our Philosophy
     url: /Pactum-Partners-Philosophy
+  - text: Advisor Partners
+    url: /advisors
   - text: Contact Us
     url: /contact
 
