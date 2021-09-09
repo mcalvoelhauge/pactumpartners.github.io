@@ -6,9 +6,7 @@ featured_image:/assets/images/covers/Rock_Maze_(Unsplash).jpeg
 
 # Our Philosophy
 
-# Purpose & Vision
-
-## Ethos
+## Purpose & Vision
 
 The Purpose of PACTUM to promote the mutual benefit and advancement of the interests of family offices globally through the establishment of intergenerational family partnerships, as it is our belief that trust is found with shared missions, visions, and values.
 
