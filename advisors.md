@@ -6,7 +6,7 @@ featured_image: /assets/images/covers/6.png
 
 # Advisor Partners
 
-![](https://github.com/mcalvoelhauge/pactumpartners.github.io/blob/main/assets/images/people/calvo.jpeg "Michael Calvo Elhauge")
+{% include image-caption.html imageurl=https://github.com/mcalvoelhauge/pactumpartners.github.io/blob/main/assets/images/people/calvo.jpeg title="Michael" %}
 
 ## Michael Calvo Elhauge
 
