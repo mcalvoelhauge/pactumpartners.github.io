@@ -14,12 +14,16 @@ featured_image: /assets/images/covers/6.png
 
 The Purpose 
 
-![](/assets/images/people/Orso.png "Anthony Orso")
+<div class="alignleft">
+	<img src="/assets/images/people.jpeg" alt="left" style="width:200px;">
+</div>
 ## Anthony Orso
 
 The Purpose of
 
-![](/assets/images/people/Ambrosi.png "Luigi Ambrosi")
+<div class="alignleft">
+	<img src="/assets/images/people/.jpeg" alt="left" style="width:200px;">
+</div>
 ## Luigi Ambrosi
 
 The Purpose of
