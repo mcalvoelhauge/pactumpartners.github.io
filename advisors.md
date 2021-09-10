@@ -7,7 +7,7 @@ featured_image: /assets/images/covers/6.png
 # Advisor Partners
 
 <div class="alignleft">
-	<img src="/assets/images/people/calvo.jpeg" alt="left", width="100">
+	<img src="/assets/images/people/calvo.jpeg" alt="left" style="width:200px;">
 </div>
 
 ## Michael Calvo Elhauge
