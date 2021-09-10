@@ -1,9 +1,9 @@
-{% if site.name and site.description %}
+<!-- {% if site.name and site.description %}
 <section class="widget widget-text">
     <h2 class="widget-title">About {{ site.name }}</h2>
     <p>{{ site.description }}</p>
 </section>
-{% endif %}
+{% endif %} -->
 
 <!-- Create a sorted array of tags -->
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor
