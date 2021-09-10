@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Our Philosophy"
-featured_image:/assets/images/covers/image17.png
+title: Our Philosophy
+featured_image: /assets/images/covers/image17.png
 ---
 
 # Our Philosophy
