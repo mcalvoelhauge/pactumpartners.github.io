@@ -6,8 +6,8 @@ featured_image: /assets/images/covers/6.png
 
 # Advisor Partners
 
-![](/assets/images/people/calvo.png "Michael Calvo Elhauge")
-## Michael Calvo Elhauge
+![## Michael Calvo Elhauge](/assets/images/people/calvo.png "Michael Calvo Elhauge")
+
 
 The Purpose 
 
