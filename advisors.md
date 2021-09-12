@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Our Advisors
-featured_image: /assets/images/covers/advisors_im.png
+featured_image: /assets/images/covers/advisor_im.png
 ---
 
 # Advisor Partners
