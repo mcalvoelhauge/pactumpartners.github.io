@@ -8,10 +8,10 @@ featured_image: /assets/images/covers/image17.png
 
 ## Purpose & Vision
 
-The Purpose of PACTUM Partners is to promote the mutual benefit and advancement of the interests of family offices globally through the establishment of intergenerational family partnerships, as it is our belief that trust is found with shared missions, visions, and values.
+PACTUM PARTNERS purpose is to promote the mutual benefit and advancement of the interests of family offices globally through the establishment of intergenerational family partnerships, as it is our belief that trust is found with shared missions, visions, and values.
 
 
-The Vision of Pactum is to leverage a robust network of like minded sophisticated family offices to encourage inter-family office collaboration for the purposes of synergistic development and co-investment. 
+PACTUM PARTNERS vision is to leverage a robust network of like minded sophisticated family offices to encourage inter-family office collaboration for the purposes of synergistic development and co-investment. 
 
 
 
