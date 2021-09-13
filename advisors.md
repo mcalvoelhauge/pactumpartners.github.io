@@ -14,16 +14,16 @@ featured_image: /assets/images/covers/advisor_im.png
 
  
 
-<div class="alignleft">
+<!-- <div class="alignleft">
 	<img src="/assets/images/people.jpeg" alt="left" style="width:200px;">
-</div>
+</div> -->
 ## Anthony Orso
 
 
 
-<div class="alignleft">
+<!-- <div class="alignleft">
 	<img src="/assets/images/people/.jpeg" alt="left" style="width:200px;">
-</div>
+</div> -->
 ## Luigi Ambrosi
 
 
