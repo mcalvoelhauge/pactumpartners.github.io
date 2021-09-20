@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Our Team
-featured_image: /assets/images/covers/advisor_im.png
+featured_image: /assets/images/covers/Miracolo_della_Pioggia.jpeg
 ---
 
 # Our Team
