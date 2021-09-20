@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Us
-featured_image: /assets/images/covers/about us 1.jpeg
+featured_image: /assets/images/covers/oldstuff.jpeg
 ---
 
 PACTUM PARTNERS was founded with the understanding that sophisticated family offices, aligned through shared missions, visioms, and values, benefit from a partner dedicated to fostering peer collaboration. 
