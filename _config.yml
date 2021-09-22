@@ -11,7 +11,7 @@ disqus: 'justgoodthemes'
 mailchimp_url:
 cover_image: covers/cover.png
 # Add your GA Tracking Id
-ga_analytics: 
+ga_analytics: 'G-QZ9BRKJJ0RP'
 
 # Contact form setings
 email: m.calvoelhauge@pactumpartners.com
