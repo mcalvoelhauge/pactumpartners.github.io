@@ -1,12 +1,12 @@
-javascript:
-  name: javascript
+family-office:
+  name: family office
   description: false
   cover: /assets/images/covers/7.jpg
-design:
-  name: design
+co-investment:
+  name: co-investment
   description: false
   cover: /assets/images/covers/2.jpg
-tips:
-  name: tips
-  description: false
-  cover: /assets/images/covers/4.jpg
+# tips:
+#   name: tips
+#   description: false
+#   cover: /assets/images/covers/4.jpg
