@@ -4,70 +4,10 @@ title: Contact Us
 cover: /assets/images/covers/contact_im.png
 ---
 
-<!--
-  To make this form work you have to:
-  1. defined "email: youremail@email.com" in _config.yml file.
-  2. verify your form on formspree.io.
--->
+## Contact Us
 
-<main class="site-main">
-  <div class="site-content">
-
-    <header class="cover page-header">
-
-      {% if cover or page.cover %}
-      <div class="cover-bg"
-        style="background-image: url({{ site.baseurl }}{% if cover %}{{ cover }}{% else %}{{ page.cover }}{% endif%})">
-      </div>
-      {% endif %}
-
-      <div class="cover-content">
-        <div class="inner">
-          <h1 class="page-title">{{ page.title }}</h1>
-
-        </div><!-- .inner -->
-      </div><!-- .cover-content -->
-    </header><!-- .post-header -->
-
-    <div class="inner">
-      <div class="post-content">
-        {% if site.contact_page_description %}
-        <p>{{ site.contact_page_description }}</p>
-        {{else}}
-        {% endif %}
-        <section class="contact-form">
-          <form action="https://formspree.io/f/mleazddj" method="POST" id="contact-form">
-            <div class="form-item">
-              <label class="form-label">Your Email <span>(required)</span></label>
-              <input type="text" name="email" placeholder="Your email address..." class="form-input" />
-            </div>
-
-            <div class="form-item">
-              <label class="form-label">Your Name <span>(required)</span></label>
-              <input type="text" name="name" placeholder="Your name..." class="form-input" />
-            </div>
-            
-            <div class="form-item">
-              <label class="form-label">Your Family or Family Office Name <span>(required)</span></label>
-              <input type="text" name="name" placeholder="Your name..." class="form-input" />
-            </div>
-
-            <div class="form-item">
-              <label class="form-label">Your Message <span>(required)</span></label>
-              <textarea name="message" placeholder="Your message..." class="form-textarea"></textarea>
-            </div>
-
-            <input type="hidden" name="_next" value="/thank-you" />
-            <input type="hidden" name="_subject" value="Contact form submission" />
-            <input type="text" name="_gotcha" style="display: none;" class="contact-form__gotcha" val="" />
-
-            <div class="form-item">
-              <input type="submit" value="Send Message" class="button" />
-            </div>
-          </form>
-        </section>
-      </div>
-    </div><!-- .inner-->
-
-  </div><!-- .site-content -->
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/calvoelhauge?hide_landing_page_details=1&background_color=050505&text_color=ffffff&primary_color=a7a7a7" style="min-width:320px;height:630px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly inline widget end -->
 </main><!-- .site-main -->
