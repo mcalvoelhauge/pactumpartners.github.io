@@ -42,6 +42,8 @@ navigation:
     url: /advisors
   - text: Inquire Within
     url: /contact
+  - text: Contact Us
+    url: /contactus
 
 # Required Plugins
 plugins_dir:
