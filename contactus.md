@@ -1,12 +1,10 @@
 ---
-layout: default
+layout: page
 title: Contact Us
-cover: /assets/images/covers/contact_im.png
+cover: /assets/images/covers/oldstuff.jpeg
 ---
 
 # Contact Us
-
-##Please Select Below
 
 <!-- Calendly inline widget begin -->
 <div class="calendly-inline-widget" data-url="https://calendly.com/calvoelhauge?text_color=080808&primary_color=facb06" style="min-width:320px;height:630px;"></div>
