@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact Us
-featured_image: /assets/images/covers/oldstuff.jpeg
+featured_image: /assets/images/covers/tower1.png
 ---
 
 # Contact Us
