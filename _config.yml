@@ -40,9 +40,7 @@ navigation:
     url: /team
   - text: Advisor Partners
     url: /advisors
-  - text: Inquire Within
-    url: /contact
-  - text: Contact Us
+  - text: Contact
     url: /contactus
 
 # Required Plugins
