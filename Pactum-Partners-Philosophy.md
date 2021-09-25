@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Our Philosophy
-featured_image: /assets/images/covers/image17.png
+featured_image: /assets/images/covers/meteora1.png
 ---
 
 # Our Philosophy
