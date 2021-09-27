@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: ABOUT
 featured_image: /assets/images/covers/oldstuff.jpeg
 ---
 
