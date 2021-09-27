@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Our Team
+title: TEAM
 featured_image: /assets/images/covers/Miracolo_della_Pioggia.jpeg
 ---
 
