@@ -1,29 +1,29 @@
 ---
 layout: page
-title: Advisor Partners
+title: Partners
 featured_image: /assets/images/covers/advisor123.png
 ---
 
-# Advisor Partners
-
-<div class="alignleft">
-	<img src="/assets/images/people/calvo.jpeg" alt="left" style="width:200px;">
-</div>
-
-## Michael Calvo Elhauge
-
- 
+# Single Family Office Partners
 
 <!-- <div class="alignleft">
 	<img src="/assets/images/people.jpeg" alt="left" style="width:200px;">
 </div> -->
-## Anthony Orso
-
+## Orso Family Office
+### Anthony Orso
 
 
 <!-- <div class="alignleft">
 	<img src="/assets/images/people/.jpeg" alt="left" style="width:200px;">
 </div> -->
-## Luigi Ambrosi
+## Ambrosi Family Office 
+### Luigi Ambrosi
 
 
+# Advisor Partners
+
+<!-- <div class="alignleft">
+	<img src="/assets/images/people/.jpeg" alt="left" style="width:200px;">
+</div> -->
+## Family Office Real Estate Institute
+### DJ Van Keuren 
