@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Partners
+title: PARTNERS
 featured_image: /assets/images/covers/advisor123.png
 ---
 
