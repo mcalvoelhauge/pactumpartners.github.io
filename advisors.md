@@ -4,7 +4,10 @@ title: Partners
 featured_image: /assets/images/covers/advisor123.png
 ---
 
-# Single Family Office Partners
+# Partners
+
+
+# Family Office Partners
 
 <!-- <div class="alignleft">
 	<img src="/assets/images/people.jpeg" alt="left" style="width:200px;">
