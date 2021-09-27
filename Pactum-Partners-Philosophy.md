@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Philosophy
+title: PHILOSOPHY
 featured_image: /assets/images/covers/meteora1.png
 ---
 
