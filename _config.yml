@@ -32,14 +32,14 @@ producthunt: '@username'
 
 # Navigation
 navigation:
-  - text: About Us
+  - text: About
     url: /about
-  - text: Our Philosophy
+  - text: Philosophy
     url: /Pactum-Partners-Philosophy
-  - text: Our Team
+  - text: Team
     url: /team
-  - text: Advisor Partners
-    url: /advisors
+  - text: Partners
+    url: /partners
   - text: Contact
     url: /contactus
 
