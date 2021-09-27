@@ -4,9 +4,6 @@ title: PARTNERS
 featured_image: /assets/images/covers/advisor123.png
 ---
 
-# Partners
-
-
 # Family Office Partners
 
 <!-- <div class="alignleft">
