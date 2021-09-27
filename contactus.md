@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact 
+title: CONTACT 
 featured_image: /assets/images/covers/tower1.png
 ---
 
