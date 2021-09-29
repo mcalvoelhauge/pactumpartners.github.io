@@ -5,6 +5,7 @@ featured_image:
 ---
 
 
+
 ## WHY PARTNER WITH OTHER FAMILY OFFICES?
 
 The true long-term partners for family offices are family offices, due to shared mutual respect, direct and open communication, and an alignment of mission, vision, and values found among peers. 
