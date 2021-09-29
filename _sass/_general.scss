@@ -12,7 +12,7 @@ textarea {
 }
 
 body {
-	background-color: #000000;
+	background-color: $black;
 	color: $gray;
 	line-height: 1.66667;
 }
@@ -222,7 +222,7 @@ button,
 input,
 select,
 textarea {
-	background-color: #000000;
+	background-color: $black;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing:    border-box;
 	box-sizing:         border-box;
