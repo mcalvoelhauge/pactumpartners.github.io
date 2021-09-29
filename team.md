@@ -23,13 +23,6 @@ featured_image: /assets/images/covers/Miracolo_della_Pioggia.jpeg
 <!-- <div class="alignleft">
 	<img src="/assets/images/people/.jpeg" alt="left" style="width:200px;">
 </div> -->
-## Filippo Calzeroni D'Altavilla 
-
-
-
-<!-- <div class="alignleft">
-	<img src="/assets/images/people/.jpeg" alt="left" style="width:200px;">
-</div> -->
 ## Niklas Lord
 
 
