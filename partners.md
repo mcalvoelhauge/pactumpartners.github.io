@@ -13,7 +13,7 @@ featured_image: /assets/images/covers/advisor123.png
 ## Orso Family Office
 ### Anthony Orso
 
-Mr. Orso is  Newmark's president of Capital Markets Strategies and the co-founder and former CEO of CCRE (Cantor Commercial Real Estate), Cantor Fitzgerald’s fully integrated commercial and multifamily real estate finance company. During his tenure as CEO, CCRE closed approximately $50 billions of dollars’ worth of loans and opened locations across the U.S. In 2014, CCRE was ranked as the No. 1 Fastest Growing Company by Crain’s New York Business. That same year, Mr. Orso was named No. 1 in Commercial Observer’s 50 Most Important People in Commercial Real Estate Finance. Prior to CCRE, Mr. Orso was a managing director at Credit Suisse and co-head of the Credit Suisse Real Estate Direct Group, where he was responsible for over $200 billion in North American real estate loans. Mr. Orso also oversaw the expansion of the business in the United States, Mexico, Latin America, the Caribbean and the Middle East. 
+Anthony Orso is Newmark's president of Capital Markets Strategies and the co-founder and former CEO of CCRE (Cantor Commercial Real Estate), Cantor Fitzgerald’s fully integrated commercial and multifamily real estate finance company. During his tenure as CEO, CCRE closed approximately $50 billions of dollars’ worth of loans and opened locations across the U.S. In 2014, CCRE was ranked as the No. 1 Fastest Growing Company by Crain’s New York Business. That same year, Mr. Orso was named No. 1 in Commercial Observer’s 50 Most Important People in Commercial Real Estate Finance. Prior to CCRE, Mr. Orso was a managing director at Credit Suisse and co-head of the Credit Suisse Real Estate Direct Group, where he was responsible for over $200 billion in North American real estate loans. Mr. Orso also oversaw the expansion of the business in the United States, Mexico, Latin America, the Caribbean and the Middle East. 
 
 Education
 
@@ -32,15 +32,13 @@ The Ambrosi families agricultural roots have grown over 5 generations, as they h
 
 The Ambrosi family has interests in countries such as Canada, Mexico, Saint Vincent, as well as Italy, of course.
 
-Luigi Ambrosi is the 4th generation leader of the Ambrosi family and is responsible for identifying and underwriting opportunties for direct investment for the Ambrosi family.
+Luigi Ambrosi is the 4th generation leader and director of direct investments for the Amrbosi Family. Mr. Amrbosi is a Venture Partner and Operating Advisor at both funds, advising on food tech deals and bringing value to their Food & Beverage vertical.
 
-began his career working with the Campari Group. Later joining the family business foucsing on building the US subsidiary. Growing from a start-up team of 2, designing marketing campaigns,  understanding the market and defining a clear sales strategy they embarked on a mission to educate the American consumer, and launched a new brand of pre-packaged specialty cheeses (first one ever of its kind), in order to attract a new generation of foodies and cultured, but value-seeking consumers:  Millennials.
+Mr. Amrbosi began his career working with the Campari Group, later joining the family business entrusted with establishing a USA based subsidiary. Growing from a start-up team of 2, designing marketing campaigns,  understanding the market and defining a clear sales strategy they embarked on a mission to educate the American consumer, and launched a new brand of pre-packaged specialty cheeses (first one ever of its kind), in order to attract a new generation of foodies and cultured, but value-seeking consumers:  Millennials.
 
-In the last years, he has dived deeper into the world of startups. After monitoring the rise of the foodtech industry, made his first two investments. The first was Bella&Bona, a German-based office catering business leveraging on the new trend of dark kitchens and food delivery. Then, The Meatless Farm – one of the global leading startups in the plant-based burgers & sausages market.
+Having recently dived deeper into the world of startups, Mr. Amrbosi monitored the rise of the foodtech industry later identifying his first two investments. Bella&Bona, a German-based office catering business leveraging on the new trend of dark kitchens and food delivery, and The Meatless Farm – one of the global leading startups in the plant-based burgers & sausages market.
 
 These positive experiences & commercial partnerships with said startups, pushed his family to start actively exploring Venture Capital opportunities, becoming Limited Partners of Seed & Pre-Seed focused fund Lombard Street Ventures, as well as growth equity fund Natureza. 
-
-Mr. Amrbosi is a Venture Partner and Operating Advisor at both funds, advising on food tech deals and bringing value to their Food & Beverage vertical. 
 
 Education
 
