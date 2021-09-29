@@ -32,6 +32,8 @@ producthunt: '@username'
 
 # Navigation
 navigation:
+  - text: Why Partner
+    url: /why
   - text: About
     url: /about
   - text: Philosophy
