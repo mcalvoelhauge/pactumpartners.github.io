@@ -15,7 +15,11 @@ featured_image: /assets/images/covers/advisor123.png
 
 Anthony Orso is the patriarch of the Orso Family Office and serves as Newmark's president of Capital Markets Strategies.
 
-Mr. Orso is the co-founder and former CEO of CCRE (Cantor Commercial Real Estate), Cantor Fitzgerald’s fully integrated commercial and multifamily real estate finance company. During his tenure as CEO, CCRE closed approximately $50 billions of dollars’ worth of loans and opened locations across the U.S. In 2014, CCRE was ranked as the No. 1 Fastest Growing Company by Crain’s New York Business. That same year, Mr. Orso was named No. 1 in Commercial Observer’s 50 Most Important People in Commercial Real Estate Finance. Prior to CCRE, Mr. Orso was a managing director at Credit Suisse and co-head of the Credit Suisse Real Estate Direct Group, where he was responsible for over $200 billion in North American real estate loans. Mr. Orso also oversaw the expansion of the business in the United States, Mexico, Latin America, the Caribbean and the Middle East. 
+The Orso Family Office directly invests in real estate venture capital in the United States.  
+
+Mr. Orso is the co-founder and former CEO of CCRE (Cantor Commercial Real Estate), Cantor Fitzgerald’s fully integrated commercial and multifamily real estate finance company. During his tenure as CEO, CCRE closed approximately $50 billions of dollars’ worth of loans and opened locations across the U.S. In 2014, CCRE was ranked as the No. 1 Fastest Growing Company by Crain’s New York Business. That same year, Mr. Orso was named No. 1 in Commercial Observer’s 50 Most Important People in Commercial Real Estate Finance. 
+
+Prior to CCRE, Mr. Orso was a managing director at Credit Suisse and co-head of the Credit Suisse Real Estate Direct Group, where he was responsible for over $200 billion in North American real estate loans. Mr. Orso also oversaw the expansion of the business in the United States, Mexico, Latin America, the Caribbean and the Middle East. 
 
 Education
 
