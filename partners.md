@@ -10,7 +10,8 @@ featured_image: /assets/images/covers/advisor123.png
 <div class="alignleft">
 	<img src="/assets/images/people/Orso-1-650x995.jpeg" alt="left" style="width:200px;">
 </div>
-## Orso Family Office
+
+## Orso Family Office 
 ### Anthony Orso
 
 Anthony Orso is the patriarch of the Orso Family Office and serves as Newmark's president of Capital Markets Strategies.
