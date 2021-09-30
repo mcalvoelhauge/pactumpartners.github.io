@@ -11,6 +11,8 @@ featured_image: /assets/images/covers/advisor123.png
 	<img src="/assets/images/people/Orso-1-650x995.jpeg" alt="left" style="width:200px;">
 </div>
 
+
+
 ## Orso Family Office 
 ### Anthony Orso
 
