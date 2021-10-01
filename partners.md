@@ -15,14 +15,14 @@ featured_image: /assets/images/covers/advisor123.png
 
 ## Orso Family Office 
 ### Anthony Orso
-<div style="text-align: justify">
+
 Anthony Orso is the patriarch of the Orso Family Office and serves as Newmark's president of Capital Markets Strategies.
 
 Mr. Orso spent a decade at the prestigious Credit Suisse First Boston where he served as the Head of North American Real Estate Finance and was responsible for overseeing more than $200bn in loans across the United States, Mexico, Europe, and the Middle East. After leaving Credit Suisse, he teamed up with Howard Lutnick of Cantor Fitzgerald to start the real estate division at the firm. The venture he startedin 2011, Cantor Commercial Real Estate (CCRE), went on to become the largest private financier of commercial real estate in the United States and earned him the title of Commercial Observer’s #1 most important person in real estate finance in 2014, as well as the fastest growing company in New York City by Crain’s New York. 
 
 The Orso Family Office is focused on high growth real estate developments. Its debut project being the marquee $380mm, 1,000,000 sqft Bronx Terminal Market - a big box retail mall adjacent to Yankee Stadium - in partnership with Steve Ross’ Related Company. Following the massive success of this project, Anthony went on to develop the $916mm, 500,000 sqft William condominium building in downtown, New York as well as lead the $1.1bn+ redevelopment of the Hard Rock Hotel and Casino in Las Vegas. Of key focus to the office is the continued expansion of sports and medical community initiatives around the United States.
 
-Next generation family leader Michael Orso, after graduating from the McDonough School of Business at Georgetown University, joined his father to help expand the family office. In his role, Michael spearheaded the development of a $50mm, 45-acre sports and medical complex in Long Island, New York, which is set to open in 2022 and will serve as a hub for over 1,000,000 youth athletes and medical professionals each year.<\div>
+Next generation family leader Michael Orso, after graduating from the McDonough School of Business at Georgetown University, joined his father to help expand the family office. In his role, Michael spearheaded the development of a $50mm, 45-acre sports and medical complex in Long Island, New York, which is set to open in 2022 and will serve as a hub for over 1,000,000 youth athletes and medical professionals each year.
 
 	
 	
