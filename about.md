@@ -12,5 +12,5 @@ With the vision of building an innovative practice, knowing that family offices
 
 
 We offer an alternative to traditional family office networks by tailoring our introductory services to the unique requirements of your family. 
-<\div>
+
 
