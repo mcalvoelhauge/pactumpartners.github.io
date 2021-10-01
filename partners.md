@@ -15,7 +15,7 @@ featured_image: /assets/images/covers/advisor123.png
 
 ## Orso Family Office 
 ### Anthony Orso
-
+<div style="text-align: right">
 Anthony Orso is the patriarch of the Orso Family Office and serves as Newmark's president of Capital Markets Strategies.
 
 Mr. Orso spent a decade at the prestigious Credit Suisse First Boston where he served as the Head of North American Real Estate Finance and was responsible for overseeing more than $200bn in loans across the United States, Mexico, Europe, and the Middle East. After leaving Credit Suisse, he teamed up with Howard Lutnick of Cantor Fitzgerald to start the real estate division at the firm. The venture he startedin 2011, Cantor Commercial Real Estate (CCRE), went on to become the largest private financier of commercial real estate in the United States and earned him the title of Commercial Observer’s #1 most important person in real estate finance in 2014, as well as the fastest growing company in New York City by Crain’s New York. 
@@ -28,7 +28,7 @@ Next generation family leader Michael Orso, after graduating from the McDonough 
 #### Education
 
 Mr. Orso earned a Master of Business Administration degree in finance from Columbia Business School and a Bachelor of Arts degree from St. John’s University. Active in his community, he serves on the board of directors for Big Brothers Big Sisters of New York.
-
+</div>
 
 <!-- <div class="alignleft">
 	<img src="/assets/images/people/.jpeg" alt="left" style="width:200px;">
