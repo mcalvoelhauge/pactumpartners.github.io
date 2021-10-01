@@ -28,7 +28,7 @@ Next generation family leader Michael Orso, after graduating from the McDonough 
 #### Education
 
 Mr. Orso earned a Master of Business Administration degree in finance from Columbia Business School and a Bachelor of Arts degree from St. John’s University. Active in his community, he serves on the board of directors for Big Brothers Big Sisters of New York.
-</div>
+
 
 <!-- <div class="alignleft">
 	<img src="/assets/images/people/.jpeg" alt="left" style="width:200px;">
@@ -58,3 +58,5 @@ Mr. Ambrosi graduated from Georgetown University with a double degree in Busines
 </div> -->
 ## Family Office Real Estate Institute
 ### DJ Van Keuren 
+
+</div>
