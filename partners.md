@@ -22,15 +22,13 @@ Mr. Orso spent a decade at the prestigious Credit Suisse First Boston where he s
 
 The Orso Family Office is focused on high growth real estate developments. Its debut project being the marquee $380mm, 1,000,000 sqft Bronx Terminal Market - a big box retail mall adjacent to Yankee Stadium - in partnership with Steve Ross’ Related Company. Following the massive success of this project, Anthony went on to develop the $916mm, 500,000 sqft William condominium building in downtown, New York as well as lead the $1.1bn+ redevelopment of the Hard Rock Hotel and Casino in Las Vegas. Of key focus to the office is the continued expansion of sports and medical community initiatives around the United States.
 
-Next generation family leader Michael Orso, after graduating from the McDonough School of Business at Georgetown University, joined his father to help expand the family office. In his role, Michael spearheaded the development of a $50mm, 45-acre sports and medical complex in Long Island, New York, which is set to open in 2022 and will serve as a hub for over 1,000,000 youth athletes and medical professionals each year.
-<\div>
+Next generation family leader Michael Orso, after graduating from the McDonough School of Business at Georgetown University, joined his father to help expand the family office. In his role, Michael spearheaded the development of a $50mm, 45-acre sports and medical complex in Long Island, New York, which is set to open in 2022 and will serve as a hub for over 1,000,000 youth athletes and medical professionals each year.<\div>
 
 	
 	
 #### Education
 <div style="text-align: justify">
-Mr. Orso earned a Master of Business Administration degree in finance from Columbia Business School and a Bachelor of Arts degree from St. John’s University. Active in his community, he serves on the board of directors for Big Brothers Big Sisters of New York.
-<\div>
+Mr. Orso earned a Master of Business Administration degree in finance from Columbia Business School and a Bachelor of Arts degree from St. John’s University. Active in his community, he serves on the board of directors for Big Brothers Big Sisters of New York.<\div>
 	
 	
 
@@ -46,16 +44,14 @@ Ottorino Amrbosi founded Ambrosi Spa in 1942 as a butter production facility, an
 
 Mr. Amrbosi began his career working with the Campari Group, later joining the family business entrusted with establishing a USA based subsidiary. Growing from a start-up team of 2, designing marketing campaigns,  understanding the market and defining a clear sales strategy they embarked on a mission to educate the American consumer, and launched a new brand of pre-packaged specialty cheeses (first one ever of its kind), in order to attract a new generation of foodies and cultured, but value-seeking consumers: Millennials. 
 
-Mr. Amrbosi monitored the rise of the foodtech industry later identifying his first two investments. Bella&Bona, a German-based office catering business leveraging on the new trend of dark kitchens and food delivery, and The Meatless Farm – one of the global leading startups in the plant-based burgers & sausages market. The success pushing the family to actively explore Venture Capital opportunities, becoming Limited Partners of Seed & Pre-Seed focused fund Lombard Street Ventures, as well as growth equity fund Natureza. 
-<\div>
+Mr. Amrbosi monitored the rise of the foodtech industry later identifying his first two investments. Bella&Bona, a German-based office catering business leveraging on the new trend of dark kitchens and food delivery, and The Meatless Farm – one of the global leading startups in the plant-based burgers & sausages market. The success pushing the family to actively explore Venture Capital opportunities, becoming Limited Partners of Seed & Pre-Seed focused fund Lombard Street Ventures, as well as growth equity fund Natureza.<\div>
 	
 	
 	
 	
 #### Education
 <div style="text-align: justify">
-Mr. Ambrosi graduated from Georgetown University with a double degree in Business Management and Anthropology. 
-<\div>
+Mr. Ambrosi graduated from Georgetown University with a double degree in Business Management and Anthropology.<\div>
 
 
 	
