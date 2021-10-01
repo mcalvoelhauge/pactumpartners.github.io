@@ -25,7 +25,7 @@ The Orso Family Office is focused on high growth real estate developments. Its d
 Next generation family leader Michael Orso, after graduating from the McDonough School of Business at Georgetown University, joined his father to help expand the family office. In his role, Michael spearheaded the development of a $50mm, 45-acre sports and medical complex in Long Island, New York, which is set to open in 2022 and will serve as a hub for over 1,000,000 youth athletes and medical professionals each year.
 
 
-Education
+#### Education
 
 Mr. Orso earned a Master of Business Administration degree in finance from Columbia Business School and a Bachelor of Arts degree from St. John’s University. Active in his community, he serves on the board of directors for Big Brothers Big Sisters of New York.
 
@@ -44,7 +44,7 @@ Mr. Amrbosi began his career working with the Campari Group, later joining the f
 
 Mr. Amrbosi monitored the rise of the foodtech industry later identifying his first two investments. Bella&Bona, a German-based office catering business leveraging on the new trend of dark kitchens and food delivery, and The Meatless Farm – one of the global leading startups in the plant-based burgers & sausages market. The success pushing the family to actively explore Venture Capital opportunities, becoming Limited Partners of Seed & Pre-Seed focused fund Lombard Street Ventures, as well as growth equity fund Natureza. 
 
-Education
+#### Education
 
 Mr. Ambrosi graduated from Georgetown University with a double degree in Business Management and Anthropology. 
 
