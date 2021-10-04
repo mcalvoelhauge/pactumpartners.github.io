@@ -40,11 +40,4 @@ Mr. Calvo Elhauge is a graduate of NYU’s Stern School of Business where he maj
 <!-- <div class="alignleft">
 	<img src="/assets/images/people/.jpeg" alt="left" style="width:200px;">
 </div> -->
-## Arjun Singh Badal
-
-
-
-<!-- <div class="alignleft">
-	<img src="/assets/images/people/.jpeg" alt="left" style="width:200px;">
-</div> -->
-## Nicolas Opaterny
+## Francesco Furio
