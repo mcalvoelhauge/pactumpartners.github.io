@@ -4,7 +4,7 @@ title: ABOUT
 featured_image: /assets/images/covers/oldstuff.jpeg
 ---
 
-# About
+# About Us
 
 
 <div style="text-align: justify">
