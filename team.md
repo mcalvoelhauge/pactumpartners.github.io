@@ -4,7 +4,7 @@ title: TEAM
 featured_image: /assets/images/covers/Miracolo_della_Pioggia.jpeg
 ---
 
-# Team
+# Our Team
 
 <!-- <div class="alignleft">
 	<img src="/assets/images/people.jpeg" alt="left" style="width:200px;">
