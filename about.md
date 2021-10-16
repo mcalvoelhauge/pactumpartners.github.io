@@ -19,3 +19,6 @@ We believe that the best long-term partner for family offices are other family o
 With the vision of building an innovative practice, PACTUM PARTNERS, facilitates opportunities for synergistic development between single-family offices 
 
 
+
+  
+  
