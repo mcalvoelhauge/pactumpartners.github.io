@@ -3,7 +3,7 @@ name: 'PACTUM PARTNERS'
 description: 'Inter-Family Office Synergy'
 meta_description: 'Connecting Family Offices.'
 greetings: 'Hello & Welcome to PACTUM PARTNERS'
-logo:
+logo: 'assets/images/Full logo bg.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: 
 production_url: www.pactumpartners.com
