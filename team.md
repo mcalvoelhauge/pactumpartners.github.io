@@ -26,11 +26,11 @@ Mr. Calvo Elhauge is a graduate of NYU’s Stern School of Business where he maj
 <!-- <div class="alignleft">
 	<img src="/assets/images/people.jpeg" alt="left" style="width:200px;">
 </div> -->
-## Andrej Krasnansky 
+## Noel Roberts 
 
+With over a decade of real estate and business experience, Mr. Roberts works with the individuals, investors, and families involved in the country's most coveted properties.
+ 
+Most recently Mr. Roberts worked as the Head of Private Client, at an international real estate brokerage. With extensive experience serving high net-worth individuals, their families, and advisors, The Private Client team offered a high touch approach to luxury property sales and planning. 
+ 
+Mr. Roberts is also the founder Hamptons Private LLC a boutique consulting shop that works with discreet buyers and sellers of high end property, provides concierge services to his network of clients and organizes private gatherings for HNW individuals.
 
-
-<!-- <div class="alignleft">
-	<img src="/assets/images/people/.jpeg" alt="left" style="width:200px;">
-</div> -->
-## Francesco Furio
