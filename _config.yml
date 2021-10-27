@@ -37,7 +37,7 @@ navigation:
   - text: Partners
     url: /partners
   - text: Contact
-    url: /contactus
+    url: /contact
 
 # Required Plugins
 plugins_dir:
