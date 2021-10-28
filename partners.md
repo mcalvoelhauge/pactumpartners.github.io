@@ -4,7 +4,7 @@ title: PARTNERS
 featured_image: /assets/images/covers/advisor123.png
 ---
 
-# Family Office Partners
+# FAMILY OFFICE PARTNERS
 
 
 ## Orso Family Office 
@@ -50,7 +50,7 @@ Mr. Ambrosi graduated from Georgetown University with a double degree in Busines
 	
 	
 	
-# Advisor Partners
+# ADVISOR PARTNERS
 
 
 <!-- <div class="alignleft">
