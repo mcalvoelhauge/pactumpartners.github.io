@@ -4,8 +4,6 @@ title: ABOUT
 featured_image: /assets/images/covers/oldstuff.jpeg
 ---
 
-# About Us
-
 <!-- <div class="alignleft">
 	<img src="/assets/images/people/.jpeg" alt="left" style="width:200px;">
 </div> -->
