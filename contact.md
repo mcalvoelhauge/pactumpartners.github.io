@@ -4,7 +4,6 @@ title: CONTACT
 featured_image: /assets/images/covers/tower1.png
 ---
 
-# Contact
 
 If you have an enquiry regarding PACTUM PARTNERS, please contact us through the relevant selection below:
 <!-- Calendly inline widget begin -->
