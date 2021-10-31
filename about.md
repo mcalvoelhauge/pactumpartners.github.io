@@ -7,7 +7,7 @@ featured_image: /assets/images/covers/oldstuff.jpeg
 <!-- <div class="alignleft">
 	<img src="/assets/images/people/.jpeg" alt="left" style="width:200px;">
 </div> -->
-PACTUM PARTNERS was founded on the understanding that sophisticated family offices, aligned through shared missions, visions, and values, would benefit from a partner dedicated to fostering peer collaboration. 
+PACTUM PARTNERS was founded on the understanding that sophisticated family offices, aligned through shared missions, visions, and values, would benefit from a partner dedicated to fostering co-investment and peer collaboration. 
 
   
 Family Offices, in ever increasing numbers, leverage their entrepreneurial DNA in the pursuit of direct investments. Offices struggle to review proposed investments due to a lack of trust, experience, staff, and/or time. The challenges, associated with the rise in direct investments, encourage a desire for co-investment with like-minded entities. A misalignment in values and horizons, alongside an environment of high fees, drives family offices from traditional investments in public equities and alternatives. High standards with regards to privacy, discretion, and security further limit potential strategic partners. 
