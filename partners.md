@@ -40,8 +40,17 @@ Mr. Ambrosi began his career working with the Campari Group, later joining the f
 
 Mr. Ambrosi monitored the rise of the foodtech industry later identifying his first two investments. Bella&Bona, a German-based office catering business leveraging on the new trend of dark kitchens and food delivery, and The Meatless Farm – one of the global leading startups in the plant-based burgers & sausages market. The success pushing the family to actively explore Venture Capital opportunities, becoming Limited Partners of Seed & Pre-Seed focused fund Lombard Street Ventures, as well as growth equity fund Natureza.
 	
-	
-	
+<!-- <div class="alignleft">
+	<img src="/assets/images/people/.jpeg" alt="left" style="width:200px;">
+</div> -->
+## Korman Family Office 
+### James Korman
+
+In 2017, the Korman family celebrated its 100-year anniversary in business in the United States.
+
+As a charter member of Drexel University’s Real Estate Management and Development Board, James has been helping shape curriculum for tomorrow’s industry leaders. James has been a guest lecturer for the Wharton School at the University of Pennsylvania and has been referred to as an industry visionary for his lifestyle initiatives designed to convert the enormous pool of home buyers into renters by choice. His vision extended well beyond his competitors and captured a previously untapped larger market. These innovations coupled with John Korman’s timely recapitalizations and refinancing s resulted in over $500 million in realized value.
+
+James Korman served as President of the Apartment Association of Philadelphia as well as President of the Pennsylvania Apartment Association where he created the Renter’s Bill of Rights, which was presented to Legislators in the State Capital. As a highly ranked tennis player James graduated from the University of Delaware where he captained the men’s tennis team. Sports have been the platform in which James became accustomed to competing and winning. His love of sports led him to charitable endeavors with professional sports organizations like the Philadelphia Eagles and Philadelphia Union Soccer team where James is the Chairman of the Nominating Committee and The Grants Committee. He utilizes the influence of professional athletes’ celebrity status to help positively impact underserved children.	
 	
 #### Education
 Mr. Ambrosi graduated from Georgetown University with a double degree in Business Management and Anthropology.
