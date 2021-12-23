@@ -16,7 +16,9 @@ Family Offices, in ever increasing numbers, leverage their entrepreneurial DNA i
 We believe that the best long-term partner for family offices are other family offices. Uniquely capable of leveraging their significant shared expertise, capital, and influence, inter-family office partnerships provide an attractive alternative to traditional fund managers by operating with greater control and flexibility without facing limiting time horizons, high fees, and regulatory restrictions. The opportunity for cross-collaboration often presents itself beyond the traditional realm of capital allocation.
 
   
-With the vision of building an innovative practice, PACTUM PARTNERS, facilitates opportunities for synergistic development between single-family offices 
+With the vision of building an innovative practice, PACTUM PARTNERS, facilitates opportunities for synergistic development between single-family offices.
+
+<iframe src="https://pitch.com/embed/66548526-b1e3-4070-b12d-22e5cd532e0d" allow="fullscreen" allowfullscreen="" width="560" height="315" style="border:0"></iframe> 
 
 
 
