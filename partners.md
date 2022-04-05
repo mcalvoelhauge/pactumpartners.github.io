@@ -60,13 +60,5 @@ As a charter member of Drexel University’s Real Estate Management and Developm
 James Korman served as President of the Apartment Association of Philadelphia as well as President of the Pennsylvania Apartment Association where he created the Renter’s Bill of Rights, which was presented to Legislators in the State Capital. As a highly ranked tennis player James graduated from the University of Delaware where he captained the men’s tennis team. Sports have been the platform in which James became accustomed to competing and winning. His love of sports led him to charitable endeavors with professional sports organizations like the Philadelphia Eagles and Philadelphia Union Soccer team where James is the Chairman of the Nominating Committee and The Grants Committee. He utilizes the influence of professional athletes’ celebrity status to help positively impact underserved children.	
 	
 	
-# ADVISOR PARTNERS
-
-
-<!-- <div class="alignleft">
-	<img src="/assets/images/people/.jpeg" alt="left" style="width:200px;">
-</div> -->
-## Family Office Real Estate Institute
-### DJ Van Keuren 
 
 
