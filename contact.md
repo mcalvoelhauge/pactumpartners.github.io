@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CONTACT 
+title: INQUIRE 
 featured_image: /assets/images/covers/tower1.png
 ---
 
