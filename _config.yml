@@ -32,10 +32,6 @@ producthunt: '@username'
 
 # Navigation
 navigation:
-  - text: About
-    url: /about
-  - text: Partners
-    url: /partners
   - text: Contact
     url: /contact
 
