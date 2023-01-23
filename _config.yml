@@ -32,7 +32,7 @@ producthunt: '@username'
 
 # Navigation
 navigation:
-  - text: Contact
+  - text: Inquire
     url: /contact
 
 # Required Plugins
